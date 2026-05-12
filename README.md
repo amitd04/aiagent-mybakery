@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Launch My Bakery: Google remote MCP demo 
 
 [![Google Cloud](https://img.shields.io/badge/Blog-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/blog/products/ai-machine-learning/announcing-official-mcp-support-for-google-services)
@@ -155,3 +156,7 @@ The data in this repository is synthetic but structured to support specific demo
 | **`demographics`** | **Community Profiling**<br>Analyzing market depth. | **Santa Monica (90403)** is modeled with a dense, established residential population, providing a stable baseline for customer volume. |
 | **`bakery_prices`** | **Pricing Strategy**<br>Setting a price point. | **Erewhon Market** has the highest price ceiling for a Sourdough Loaf (~$18.50), while the market average is ~$8.20. This allows the Agent to confidently suggest a premium price point of ~$15-18. |
 | **`sales_history`** | **Forecasting**<br>Predicting growth. | **Silver Lake** shows aggressive week-over-week growth trends, while **Playa Vista** represents a stable, high-volume flagship store, providing distinct patterns for forecasting models. |
+=======
+# aiagent-mybakery
+AI agent using BigQuery and GMap via MCP to help users with bakery suggestions
+>>>>>>> 81a48f6ca81cf69850f5db5896c47489fbf6e72e
